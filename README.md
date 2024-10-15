@@ -26,7 +26,7 @@ Contributions are welcome! If you would like to contribute, please fork the repo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
